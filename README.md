@@ -188,6 +188,6 @@ pytest
 
 ---
 
-## Author
+## Authors
 
-Ashot Akopov
+Ashot Akopov, Fadwa Drissi, Alicia Petrov, Farah Naji
